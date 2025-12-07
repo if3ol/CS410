@@ -11,6 +11,8 @@
 ```bash
 python cli.py
 ```
+And follow the command line instructions
+
 Features:
 - Choose recommender (TF-IDF, SciBERT, or Hybrid)
 - Search with natural language queries
@@ -18,7 +20,3 @@ Features:
 - View your profile (liked/disliked papers)
 - Reset profile
 - Fetches 1000 papers automatically
-### Option 2: Example Usage
-```bash
-python exmaple.py
-```
